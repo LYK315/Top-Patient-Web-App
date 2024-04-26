@@ -26,7 +26,7 @@ from ortools.constraint_solver import pywrapcp
 def create_data_model(addresses, timeWindows, deliveryNode, demand):
     """Stores the data for the problem."""
     data = {}
-    data['API_key'] = 'AIzaSyDodyAhuZKTVbVwSWt_DcmQvM8e4hyG2rU'
+    data['API_key'] = 'APIKEY'
     data["depot"] = 0
     data["num_vehicles"] = ["LDN 1", "LDN 2", "LDN 3", "LDN 4"]
     data["vehicle_capacities"] = [4, 4, 4, 4]
