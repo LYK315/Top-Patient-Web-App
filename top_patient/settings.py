@@ -131,17 +131,6 @@ WSGI_APPLICATION = 'top_patient.wsgi.application'
 # Database
 # https://docs.djangoproject.com/en/4.1/ref/settings/#databases
 
-# DATABASES = {
-#     "default": {
-#         "ENGINE": "django.db.backends.postgresql",
-#         "NAME": "top_patient_db",
-#         "USER": "lyk",
-#         "PASSWORD": "admin",
-#         "PORT": "5432",
-#         "HOST": "localhost",
-#     }
-# }
-
 DATABASES = {
     "default": {
         "ENGINE": "django.db.backends.postgresql",
@@ -152,10 +141,6 @@ DATABASES = {
         "HOST": "dpg-coik7on79t8c738ifl90-a.frankfurt-postgres.render.com",
     }
 }
-# Internal host: dpg-coik7on79t8c738ifl90-a
-# External host: dpg-coik7on79t8c738ifl90-a.frankfurt-postgres.render.com
-
-# DATABASES["default"] = dj_database_url.parse("postgres://tpt_django_render_user:Y5N42kLSYYI2AlOxZYaVwqkboIp5kMdB@dpg-coik7on79t8c738ifl90-a.frankfurt-postgres.render.com/tpt_django_render")
 
 
 # Password validation
