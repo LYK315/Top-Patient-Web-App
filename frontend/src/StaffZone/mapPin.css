@@ -1,0 +1,21 @@
+.location-pin {
+  background-color: #0056BD;
+  border-radius: 50%;
+  color: #FFFFFF;
+  font-size: 14px;
+  padding: 5px 10px;
+  position: relative;
+}
+
+.location-pin::after {
+  content: "";
+  position: absolute;
+  left: 50%;
+  top: 100%;
+  transform: translate(-50%, -50%);
+  width: 0;
+  height: 0;
+  border-left: 8px solid transparent;
+  border-right: 8px solid transparent;
+  border-top: 16px solid #0056BD;
+}
