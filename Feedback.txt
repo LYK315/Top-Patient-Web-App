@@ -1,0 +1,38 @@
+CE301 Final Report Feedback
+Student: 2313797 LIAW, YI KAI
+
+Learning objectives assessed:
+1. Apply an appropriate design methodology to achieve a product defined by a specification.
+2. Use agile project management tools (Jira) and time management techniques to plan and manage a project over a period of six months or more.
+3. Locate and read references and produce summaries and critical analysis of them. Be aware of peer review as a means of the quality assurance of written work.
+4. Record plans, ideas, results, and reflections in a log book as defined in the project guidebook.
+5. Work as an individual to specify, design, construct and test a system to meet a project requirement.
+6. Demonstrate oral and written communication skills through the writing of the initial and final report, through the midpoint second assessor oral examination, through the preparation and presentation of a poster at the Project Open Day, and by providing a working demonstration of the project product at the Presentation, Demonstration, and Oral Examination (PDO).
+7. Present and discuss ideas informally with academic supervisors.
+8. Plan an employability strategy in light of current knowledge regarding graduate employment.
+9. Define and discuss the role of an engineer in society particularly related to professional ethics.
+10. Plan and report on the aspects of risk within their specific project.
+11. Explain the meaning of Intellectual Property and ways in which IP can be protected.
+
+
+Report Feedback:
+Organisation and Presentation:   
+Very nicely presented and organised.
+        
+Writing Quality:
+Good writing quality.
+
+Technical Quality and Level:
+The project poses a wide range of technical challenges, from web frontend design to backend development to the design of the interface with the OR tool. It has been implemented to a very high standard. The student showed ownership of the project and carried it out enthusastically and professionally.
+
+Weaknesses:
+Some quantitative assessment of the quality of the routing would have been nice.
+
+Other:
+It has been a pleasure working with you and I wish you the best for the future
+
+
+
+CE301 Project Supervisor: Luca CITI
+Module Supervisor: Dr V. Mohan
+Feedback written by: Luca CITI
